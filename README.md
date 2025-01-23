@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI & Data Science**
 
-- 💬 Ask me about **Html, CSS, Bootstrap, JQuery**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
 
 - 📫 How to reach me **muhammadraqib775@gmail.com**
 
