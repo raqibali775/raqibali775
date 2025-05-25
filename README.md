@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Raqib Ali</h1>
-<h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
+<h3 align="center">A Passionate Full-Stack Developer From Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raqibali775" alt="raqibali775" /></a> </p>
