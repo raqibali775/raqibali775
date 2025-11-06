@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raqibali775" alt="raqibali775" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **MERN Stack Development**
 
 - 🌱 I’m currently learning **Agentic AI**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **muhammadraqib775@gmail.com**
 
-- ⚡ Fun fact **I am Entertaining **
+- ⚡ Fun fact **I am Entertaining**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
